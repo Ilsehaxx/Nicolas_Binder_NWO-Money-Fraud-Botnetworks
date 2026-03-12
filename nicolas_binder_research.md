@@ -72,6 +72,7 @@
 ## Potential NWO, Money Fraud, Botnetworks Connections
 - No evidence found. Project name may be speculative.
 - Unrelated searches: General fraud stories, no mention of Nicolas Binder.
+- Revenue estimate: Hundreds of thousands from streams, gigs, etc., no fraud indicators.
 
 ## Other Sources
 - Instagram: @nicolasbindermusic (posts about music, tours).
