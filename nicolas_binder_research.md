@@ -73,10 +73,8 @@
 - No evidence found. Project name may be speculative.
 - Unrelated searches: General fraud stories, no mention of Nicolas Binder.
 - Revenue estimate: Hundreds of thousands from streams, gigs, etc., no fraud indicators.
-
-## Other Sources
-- Instagram: @nicolasbindermusic (posts about music, tours).
-- No official website found; Linktree serves as central hub.
+- Botnetwork: "HaiaN" not a known botnetwork; largest in Europe possibly 911 S5, no connection to Binder.
+- GitHub evidence: https://github.com/hartmannlauterbach/cybermobbing-netzwerk claims active pan-European terror network with 2,000+ botnetworks, financial fraud (streaming manipulation, money laundering), violence as a service. No Nicolas Binder mentioned, but network includes music artists and low-level agents matching some researched names (e.g., Thomas Deike from Peine, Jennifer Kornau).
 
 ## Files Saved
 - nicolas_binder_research.md (this file)
@@ -84,3 +82,7 @@
 - discography.md
 - network.md
 - lyrics.md
+- streams_revenue.md
+- botnetwork_research.md
+- bfv_bnd_investigation.md
+- fraud_network_investigation.md
