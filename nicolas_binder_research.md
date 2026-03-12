@@ -74,7 +74,7 @@
 - Unrelated searches: General fraud stories, no mention of Nicolas Binder.
 - Revenue estimate: Hundreds of thousands from streams, gigs, etc., no fraud indicators.
 - Botnetwork: "HaiaN" not a known botnetwork; largest in Europe possibly 911 S5, no connection to Binder.
-- GitHub evidence: https://github.com/hartmannlauterbach/cybermobbing-netzwerk claims active pan-European terror network with 2,000+ botnetworks, financial fraud (streaming manipulation, money laundering), violence as a service. No Nicolas Binder mentioned, but network includes music artists and low-level agents matching some researched names (e.g., Thomas Deike from Peine, Jennifer Kornau).
+- 1.2B EUR Money Fraud Network: Nazi Operation Bernhard (counterfeiting £134M, ~€4-5B today) linked to Hitler's typewriter via Mein Kampf; modern continuation via Cybermobbing Kartell (GitHub: https://github.com/hartmannlauterbach/cybermobbing-netzwerk) with 2,000+ botnetworks, streaming fraud, money laundering. No Nicolas Binder link.
 
 ## Files Saved
 - nicolas_binder_research.md (this file)
