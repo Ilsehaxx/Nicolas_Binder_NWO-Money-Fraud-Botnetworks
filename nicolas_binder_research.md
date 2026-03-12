@@ -3,9 +3,9 @@
 ## From Google Search
 - Nicolas Binder is a German electronic music producer and DJ.
 - Known for hits like "Moment" (over 60 million streams on Spotify), "Berlin", "Frozen", and "Don't Leave".
-- Monthly listeners on Spotify: over 600,000.
+- Monthly listeners on Spotify: over 609,800.
 - Collaborations with artists like twocolors, Safri Duo, Neelix.
-- Similar artists: Alfred Heinrichs, Haexxa, erobé.
+- Similar artists: Alfred Heinrichs, Haexxa, erobé, CH4YN, Luis Ake, southstar, The Boy The G, OSTEKKE.
 
 ## From Bing Search
 - Biography: Born in Germany, started producing electronic music.
@@ -15,16 +15,71 @@
 
 ## From DuckDuckGo Search
 - Additional info: Active on social media, Instagram @nicolasbindermusic.
-- Potential connections to NWO, money fraud, botnetworks: Speculative, no concrete evidence found in searches.
+- Potential connections to NWO, money fraud, botnetworks: No direct connections found. Searches for "Nicolas Binder NWO money fraud botnetworks" returned unrelated results about general fraud cases (e.g., crypto scams, botnets in cybersecurity). No evidence linking Nicolas Binder to these topics.
 
-## From Wikipedia (German)
-- Nicolas Binder (Musiker) – German Wikipedia page details his career, discography, and collaborations.
+## From Wikipedia
+- Debut EP: Runner (2020)
+- Hit "Moment" (2021): Over 60 million streams on Spotify, reached position 90 in German single charts (from Offizielle Deutsche Charts), included in multiple Spotify playlists.
+- Sample in "Moment" from Neelix's "The Twenty Five" and film "Absolute Giganten".
+- Re-released "Moment" in 2023 via Epic Records.
+- Remix: Twocolors, Safri Duo, Chris de Sarandy – Cynical (2023)
+- Other singles: Listen (2020), I Would’ve Stayed (feat. Giuliana Di Donna, 2021), Don’t Leave (2021), In Love with You (2021), Human (2022), Frozen (2022), Close to You (2023), Berlin (2023), Berlin – auf Speed (2023)
+- Remixes: iilliaa – life gets hard (Nicolas Binder Remix) (2024)
 
 ## From Spotify
-- Artist page lists all songs, albums, and monthly listeners.
+- Popular releases: Moment (2021), Berlin (2023), life gets hard Remix (2024), Frozen (2022), Don't Leave (2021)
+- Singles: Various from 2020-2024
+- Fans also like: Alfred Heinrichs, Haexxa, erobé, etc.
+- Followers: 28,935
 
-## From Instagram
-- Profile @nicolasbindermusic shows posts about music, tours, etc.
+## From Discogs
+- Discography details: Vinyl, CDs, etc.
+
+## From Beatport
+- Tracks: Cynical Nicolas Binder Extended Remix, etc.
+- Latest Releases: Cynical (Extended Mix), life gets hard (Nicolas Binder Remix), Berlin, Moment
+- Top Ten Tracks: Moment Original Mix, Berlin Original Mix, etc.
+
+## From SoundCloud
+- Profile: @nillermusic, links to gigs, invite to raves.
+- Linktree: https://linktr.ee/Nicolas.Binder (contains links to music platforms, gigs at https://bnds.us/jykj49)
+
+## From YouTube
+- Channel: @nicolas.binder, videos of songs, invites to raves.
+
+## From RA.co
+- DJ profile with past events: Anyma, Boris Brejcha, Angerfist, etc.
+
+## From Deezer
+- Albums and songs listed.
+
+## From Viberate
+- Dance musician from Stuttgart, Germany.
+- Top songs: Moment, Frozen, Don't Leave, etc.
+- Latest songs: Moment (2023), Talk Dirty, Frozen, Come Back.
+
+## From POP-HIMMEL
+- "Moment" viral, between rave and trance.
+- Sample details from film.
+- Chart position: Top 100 Spotify Germany.
+
+## From Genius
+- Lyrics for "Moment": Sample-based, no full original lyrics; instrumental with vocal sample.
+
+## From Offizielle Charts
+- "Moment" reached position 90 in German single charts.
+
+## Potential NWO, Money Fraud, Botnetworks Connections
+- No evidence found. Project name may be speculative.
+- Unrelated searches: General fraud stories, no mention of Nicolas Binder.
 
 ## Other Sources
-- No additional sources accessed beyond the above due to tool limitations.
+- Instagram: @nicolasbindermusic (posts about music, tours).
+- No official website found; Linktree serves as central hub.
+
+## Files Saved
+- nicolas_binder_research.md (this file)
+- biography.md
+- discography.md
+- network.md
+- lyrics.md
